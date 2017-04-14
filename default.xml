@@ -522,7 +522,7 @@
   <project path="hardware/libhardware" name="platform_hardware_libhardware" groups="pdk" remote="anbox" />
   <project path="hardware/libhardware_legacy" name="platform_hardware_libhardware_legacy" groups="pdk" remote="anbox" />
   <project path="system/core" name="system_core.git" remote="anbox" groups="pdk" />
-  <project path="system/netd" name="LineageOS/android_system_netd" remote="anbox" groups="pdk" />
+  <project path="system/netd" name="platform_system_netd" groups="pdk" remote="anbox" />
   <project path="system/vold" name="LineageOS/android_system_vold" remote="anbox" groups="pdk" />
   <project path="anbox" name="anbox" remote="anbox" revision="master" />
 </manifest>
